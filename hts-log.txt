@@ -1,0 +1,120 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Aug 2023 09:02:24 at https://elevaracc.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://elevaracc.com/ -O1 "D:\Websites\gmaats\gmaats" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:02:26	Warning: 	Note: due to https://elevaracc.com remote robots.txt rules, links beginning with these path will be forbidden: /ainsworth-free-pokies/, /australian-pokies-free-spins-no-deposit/, /australia-online-casino-free-spins/, /secure-pokies-online-deposit-casino-2023/, /free-spins-no-deposit-australia-2022-real-money/, /australian-online-casino-no-deposit-bonus-2022/, /free-online-pokies-wolf-treasure/, /top-online-pokies-and-casinos-honest/, /bet365-australia-roulette-guide-au/, /online-casino-australia-visa-debit/, /first-deposit-bonus-casino-nz/, /cheat-no-registration-pokies/, /nz-legal-gambling/, /what-casino-pokies-payout-best/, /best-online-poker-sites-for-real-money-nz/, /best-real-money-pokies-australia-with-free-bonus/, /what-are-pokies-in-australia/, /mobile-pokies-free/, /wp-admin/ (see in the options to disable this)
+09:03:58	Error: 	"Forbidden" (403) at link https://elevaracc.com/xmlrpc.php?rsd (from https://elevaracc.com/)
+09:03:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://elevaracc.com/)
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/Brochure.pdf (from https://elevaracc.com/)
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/wp-content/themes/elevara/assets/images/owl.video.play.png (from https://elevaracc.com/wp-content/themes/elevara/assets/css/functions.css?ver=1.4)
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/wp-content/themes/elevara/assets/images/quote.png (from https://elevaracc.com/wp-content/themes/elevara/assets/css/style.css?ver=1.4)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=223
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=223 to https://elevaracc.com/business-owners/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/business-owners/Brochure.pdf (from https://elevaracc.com/business-owners/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=134
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=134 to https://elevaracc.com/accounting-firms/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/accounting-firms/Brochure.pdf (from https://elevaracc.com/accounting-firms/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=136
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=136 to https://elevaracc.com/exclusive-migration-services/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/exclusive-migration-services/Brochure.pdf (from https://elevaracc.com/exclusive-migration-services/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=291
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=291 to https://elevaracc.com/startups-and-smes/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/startups-and-smes/Brochure.pdf (from https://elevaracc.com/startups-and-smes/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=293
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=293 to https://elevaracc.com/franchises-and-multi-locations/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/franchises-and-multi-locations/Brochure.pdf (from https://elevaracc.com/franchises-and-multi-locations/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=229
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=229 to https://elevaracc.com/restaurant/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/restaurant/Brochure.pdf (from https://elevaracc.com/restaurant/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=280
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=280 to https://elevaracc.com/hotels/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/hotels/Brochure.pdf (from https://elevaracc.com/hotels/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=289
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=289 to https://elevaracc.com/ecommerce/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/ecommerce/Brochure.pdf (from https://elevaracc.com/ecommerce/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=287
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=287 to https://elevaracc.com/sports/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/sports/Brochure.pdf (from https://elevaracc.com/sports/)
+09:08:32	Warning: 	Moved Permanently for https://elevaracc.com/?p=106
+09:08:32	Warning: 	File has moved from https://elevaracc.com/?p=106 to https://elevaracc.com/engagement-model/
+09:08:32	Error: 	"Not Found" (404) at link https://elevaracc.com/engagement-model/Brochure.pdf (from https://elevaracc.com/engagement-model/)
+09:10:18	Error: 	"Not Found" (404) at link https://elevaracc.com/blog/Brochure.pdf (from https://elevaracc.com/blog/)
+09:10:18	Warning: 	Moved Permanently for https://elevaracc.com/?p=312
+09:10:18	Warning: 	File has moved from https://elevaracc.com/?p=312 to https://elevaracc.com/data-security/
+09:10:18	Error: 	"Not Found" (404) at link https://elevaracc.com/data-security/Brochure.pdf (from https://elevaracc.com/data-security/)
+09:10:18	Warning: 	Moved Permanently for https://elevaracc.com/?p=8
+09:10:18	Warning: 	File has moved from https://elevaracc.com/?p=8 to https://elevaracc.com/contact/
+09:10:18	Error: 	"Not Found" (404) at link https://elevaracc.com/contact/Brochure.pdf (from https://elevaracc.com/contact/)
+09:10:18	Warning: 	Moved Permanently for https://elevaracc.com/?p=2432
+09:10:18	Warning: 	File has moved from https://elevaracc.com/?p=2432 to https://elevaracc.com/planning-to-outsource-bookkeeping-tasks-read-this-guide-first/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/planning-to-outsource-bookkeeping-tasks-read-this-guide-first/Brochure.pdf (from https://elevaracc.com/planning-to-outsource-bookkeeping-tasks-read-this-guide-first/)
+09:10:22	Warning: 	Moved Permanently for https://elevaracc.com/?p=2426
+09:10:22	Warning: 	File has moved from https://elevaracc.com/?p=2426 to https://elevaracc.com/9-financial-management-tips-for-small-business-owners/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/9-financial-management-tips-for-small-business-owners/Brochure.pdf (from https://elevaracc.com/9-financial-management-tips-for-small-business-owners/)
+09:10:22	Warning: 	Moved Permanently for https://elevaracc.com/?p=2417
+09:10:22	Warning: 	File has moved from https://elevaracc.com/?p=2417 to https://elevaracc.com/streamline-your-success-unlocking-the-benefits-of-outsourcing-bookkeeping/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/streamline-your-success-unlocking-the-benefits-of-outsourcing-bookkeeping/Brochure.pdf (from https://elevaracc.com/streamline-your-success-unlocking-the-benefits-of-outsourcing-bookkeeping/)
+09:10:22	Warning: 	Moved Permanently for https://elevaracc.com/?p=542
+09:10:22	Warning: 	File has moved from https://elevaracc.com/?p=542 to https://elevaracc.com/privacy-policy/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/privacy-policy/Brochure.pdf (from https://elevaracc.com/privacy-policy/)
+09:10:22	Warning: 	Moved Permanently for https://elevaracc.com/?p=540
+09:10:22	Warning: 	File has moved from https://elevaracc.com/?p=540 to https://elevaracc.com/terms-of-service/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/terms-of-service/Brochure.pdf (from https://elevaracc.com/terms-of-service/)
+09:10:22	Warning: 	Moved Permanently for https://elevaracc.com/?p=2313
+09:10:22	Warning: 	File has moved from https://elevaracc.com/?p=2313 to https://elevaracc.com/thank-you/
+09:10:22	Error: 	"Not Found" (404) at link https://elevaracc.com/thank-you/Brochure.pdf (from https://elevaracc.com/thank-you/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/blog/page/2/Brochure.pdf (from https://elevaracc.com/blog/page/2/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/bookkeeping-for-ecommerce/Brochure.pdf (from https://elevaracc.com/bookkeeping-for-ecommerce/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/accounting-and-bookkeeping-services/Brochure.pdf (from https://elevaracc.com/tag/accounting-and-bookkeeping-services/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/hospitality-accounting-services/Brochure.pdf (from https://elevaracc.com/tag/hospitality-accounting-services/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/outsource-bookkeeping-services/Brochure.pdf (from https://elevaracc.com/tag/outsource-bookkeeping-services/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/accounting-services-for-small-business/Brochure.pdf (from https://elevaracc.com/accounting-services-for-small-business/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/accounting-services-for-small-business/Brochure.pdf (from https://elevaracc.com/tag/accounting-services-for-small-business/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/bookkeeping-for-a-restaurant/Brochure.pdf (from https://elevaracc.com/tag/bookkeeping-for-a-restaurant/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/general/Brochure.pdf (from https://elevaracc.com/general/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2414
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2414 to https://elevaracc.com/from-stress-to-success-how-outsourcing-bookkeeping-and-accounting-can-revolutionize-your-business/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/from-stress-to-success-how-outsourcing-bookkeeping-and-accounting-can-revolutionize-your-business/Brochure.pdf (from https://elevaracc.com/from-stress-to-success-how-outsourcing-bookkeeping-and-accounting-can-revolutionize-your-business/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/accounting-and-bookkeeping/Brochure.pdf (from https://elevaracc.com/accounting-and-bookkeeping/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/accounting-services-for-small-businesses/Brochure.pdf (from https://elevaracc.com/tag/accounting-services-for-small-businesses/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2406
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2406 to https://elevaracc.com/bar-and-restaurant-accounting-a-blueprint-for-financial-success/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/bar-and-restaurant-accounting-a-blueprint-for-financial-success/Brochure.pdf (from https://elevaracc.com/bar-and-restaurant-accounting-a-blueprint-for-financial-success/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/accounting-services-for-restaurants/Brochure.pdf (from https://elevaracc.com/accounting-services-for-restaurants/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2401
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2401 to https://elevaracc.com/financial-planning-for-ecommerce/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/financial-planning-for-ecommerce/Brochure.pdf (from https://elevaracc.com/financial-planning-for-ecommerce/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2369
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2369 to https://elevaracc.com/taste-of-financial-success-9-accounting-tips-for-hotels-and-restaurants/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/taste-of-financial-success-9-accounting-tips-for-hotels-and-restaurants/Brochure.pdf (from https://elevaracc.com/taste-of-financial-success-9-accounting-tips-for-hotels-and-restaurants/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/hospitality-accounting-services/Brochure.pdf (from https://elevaracc.com/hospitality-accounting-services/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2352
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2352 to https://elevaracc.com/budgeting-made-easy-practical-tips-for-small-business-owners/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/budgeting-made-easy-practical-tips-for-small-business-owners/Brochure.pdf (from https://elevaracc.com/budgeting-made-easy-practical-tips-for-small-business-owners/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2330
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2330 to https://elevaracc.com/8-accounting-trends-that-you-should-never-miss/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/8-accounting-trends-that-you-should-never-miss/Brochure.pdf (from https://elevaracc.com/8-accounting-trends-that-you-should-never-miss/)
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/accounting-services-provider/Brochure.pdf (from https://elevaracc.com/tag/accounting-services-provider/)
+09:10:48	Warning: 	Moved Permanently for https://elevaracc.com/?p=2301
+09:10:48	Warning: 	File has moved from https://elevaracc.com/?p=2301 to https://elevaracc.com/10-compelling-reasons-to-outsource-your-accounting-functions/
+09:10:48	Error: 	"Not Found" (404) at link https://elevaracc.com/10-compelling-reasons-to-outsource-your-accounting-functions/Brochure.pdf (from https://elevaracc.com/10-compelling-reasons-to-outsource-your-accounting-functions/)
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/author/elevar/Brochure.pdf (from https://elevaracc.com/author/elevar/)
+09:10:50	Warning: 	Moved Permanently for https://elevaracc.com/?p=980
+09:10:50	Warning: 	File has moved from https://elevaracc.com/?p=980 to https://elevaracc.com/restaurant-accounting-solution/
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/restaurant-accounting-solution/Brochure.pdf (from https://elevaracc.com/restaurant-accounting-solution/)
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/restaurant/Brochure.pdf (from https://elevaracc.com/tag/restaurant/)
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/tag/restaurantaccounting/Brochure.pdf (from https://elevaracc.com/tag/restaurantaccounting/)
+09:10:50	Warning: 	Moved Permanently for https://elevaracc.com/?p=162
+09:10:50	Warning: 	File has moved from https://elevaracc.com/?p=162 to https://elevaracc.com/common-bookkeeping-errors/
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/common-bookkeeping-errors/Brochure.pdf (from https://elevaracc.com/common-bookkeeping-errors/)
+09:10:50	Warning: 	Moved Permanently for https://elevaracc.com/?p=1
+09:10:50	Warning: 	File has moved from https://elevaracc.com/?p=1 to https://elevaracc.com/migrationchecklist/
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/migrationchecklist/Brochure.pdf (from https://elevaracc.com/migrationchecklist/)
+09:10:50	Error: 	"Not Found" (404) at link https://elevaracc.com/author/elevar/page/2/Brochure.pdf (from https://elevaracc.com/author/elevar/page/2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 26 seconds : 431 links scanned, 350 files written (88215544 bytes overall) [87250229 bytes received at 172431 bytes/sec], 5318752 bytes transferred using HTTP compression in 102 files, ratio 36%, 1.0 requests per connection
+(52 errors, 57 warnings, 0 messages)

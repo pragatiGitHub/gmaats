@@ -1,0 +1,441 @@
+@media (max-width:1400px) {
+    .header-inr { padding: 20px 30px; }
+    .header.fixed .header-inr { padding: 10px 30px; }
+    .site-logo img { width: 180px; }
+    .primary-menu li > a{font-size: 12px;}
+    .navbtn{font-size: 13px;padding: 10px 20px;width: 150px;font-weight: 600;}
+    #banner { height: 100vh; }
+    #banner .bannerCaption { max-width: 860px; }
+    .bannerCaption h1, #innerBanner h1, .spinny-words span { font-size: 50px; line-height: 1.1; }
+    .page.page-id-312 #innerBanner h1{font-size: 36px;line-height: 1.3;}
+    .spinny-words { min-height: 55px; }
+    .page-template-templates #innerBanner h1 { font-size: 42px; line-height: 1.3; margin-bottom: 20px; letter-spacing: 0.6px; }
+    #innerBanner p { font-size: 17px; line-height: 1.6; margin-bottom: 20px; letter-spacing: 0.5px; }
+    #innerBanner a.btnLink { padding: 12px 40px; }
+    #banner .bannerCaption a { font-size: 15px; padding: 10px 40px; }
+    .primary-menu li > a { padding: 10px 0px; }
+    .primary-menu ul.sub-menu li a { padding: 10px 15px }
+    .primary-menu li.navbtn > a { margin-left: 10px; padding: 10px 13px; }
+    .bannerCaption p { font-size: 18px; }
+    #featureVideo { padding: 60px 0; min-height: unset; background: url(../images/watermark.png) no-repeat -450px -100px #F8F8f8; background-size: 60%; }
+    #myVideo { width: 70% !important; }
+    #playBtn, #pauseBtn { width: 130px; height: 130px; }
+    #playBtn { background: url(../images/play-button.png) left top no-repeat; background-size: 130px; }
+    #pauseBtn { background: url(../images/pause-button.png) left top no-repeat; background-size: 130px; background-size: 130px; }
+    #serviceWrap { padding: 60px 30px; background-position: 640px 0; }
+    .serviceInfo { padding: 15px 20px 30px; margin: 0 5px; }
+    .serviceInfo h3 { font-size: 18px; }
+    .serviceInfo p { font-size: 14px; }
+    #serviceWrap a { padding: 10px 30px; font-size: 14px; }
+    .rServices h3{line-height: 1.3;min-height: 56px;}
+    #howItWorks, #ourBlogs, .boAbout, .whoWeWorkWith, .boWhyChooseUs, .boServices { padding: 40px 0; }
+    #howItWorks h2, #ourBlogs h2, .brandDetails h2, .calltoInfo h2, #textInfo h2, .entry-content h2, #faq h2, .whoWeWorkWith h2, .boWhyChooseUs h2, .rServices h2, #services.eModelServices h2 { font-size: 40px; line-height: 1.2; }    
+    .boAbout h2, #serviceWrap.emsServices h2{font-size: 40px;line-height: 1.15;}
+    .blogDetails h3, .rServices h3 { font-size: 20px; line-height: 30px; margin-bottom: 20px; }
+    .blogSection { background: url(../images/watermark3.png) no-repeat -580px 400px; background-size: 100%; }
+    /*#callToaction:before { background-size: 95%; background-position: 30px -70px; }*/    
+    .section-heading h2 { font-size: 45px; line-height: 1.4; }
+    .section-heading p{font-size: 19px;line-height: 1.5;}
+
+    /*Engagement Model Page*/
+    #innerBanner { min-height: 500px; }
+    #textInfo p { font-size: 20px; line-height: 35px; }
+    input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="date"], input[type="month"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="week"], input[type="number"], input[type="search"], input[type="tel"], input[type="color"], select { border-radius: 6px; font-size: 15px; padding: 10px 15px; height: 40px; }
+    textarea { height: 6rem; border-radius: 6px; font-size: 15px; padding: 10px 15px; }
+	select{padding:5px 15px;}
+    #innerBanner li { margin-bottom: 10px; }
+
+    /*::-webkit-input-placeholder {font-size: 15px; }
+    :-ms-input-placeholder {font-size: 15px; }
+    ::placeholder {font-size: 15px; }*/
+    #textInfo { padding: 100px 0 60px; min-height: unset; }
+    #textInfo h2 { padding: 40px 0; }
+    .planSelection .plan-title { font-size: 20px; padding: 20px 0; letter-spacing: 0.5px; }
+    .planSelection .plan-features li { font-size: 14px; font-weight: 500;min-height: 215px;}
+    .planSelection .plan-select a { font-size: 14px; letter-spacing: 0; padding: 10px 20px; border-radius: 6px; }
+    .planSelection .plan.features .plan-title:before { top: -43px; width: 78%; font-size: 16px; height: 62%; padding: 10px 0; }
+    .planSelection .plan-features li.plan-select{min-height: unset;padding: 40px; }
+    section { padding: 3rem 0; }
+    #services.eModelServices .servicesBlock p { font-size: 20px; line-height: 30px; }
+    div.ufaq-faq-title h4 { font-size: 20px; }
+    .ufaq-faq-title .ewd-ufaq-post-margin-symbol span { font-size: 22px; line-height: 1; }
+    .ufaq-faq-div { padding: 25px 30px; margin: 0 0 20px 0; }
+
+    /*Business Owner Page*/
+    .boServices { background: url(../images/bo-watermark5.png) no-repeat -300px 100px #F8F8F8; background-size: 50%; }
+    .boServices li { font-size: 20px; line-height: 30px; margin: 10px 10px 10px 0; width: calc(50% - 20px); background-position: left 7px; }
+    #howItWorks.boWorks { background: url(../images/bo-watermark5.png) no-repeat 1100px 0px; background-size: 50%; }
+    .workBlock { margin: 70px 0; }
+    .workBlock:first-child { margin-top: 50px; }
+    .workBlockText h3 { font-size: 28px; }
+    .whyBlockWrap { padding: 0 30px; }
+    .whyBlockWrap h3 { font-size: 20px; line-height: 30px; }
+    .boWhyChooseUs h2 { margin-bottom: 40px; }
+
+    /*Restaurant Page*/
+    #ourServices { padding: 60px 40px; }
+    .rServiceBlock { padding: 0 20px; }
+}
+@media (max-width:1200px) {
+    .spinny-words { min-height: 60px; }
+    .page-template-template-business-owner #innerBanner h1 { font-size: 40px; line-height: 1.2; margin-bottom: 10px; }
+    .page-template-templates #innerBanner .container { top: 75px; }
+    a.btnLink { font-size: 15px; padding: 10px 40px; }
+    .boAbout h2 { margin-bottom: 20px; }
+    .boServices { background: url(../images/bo-watermark5.png) no-repeat -300px 100px #F8F8F8; background-size: 64%; }
+    .ctaText{width: 70%;padding-right: 100px;}
+    .calltoInfo .ctaText h2{font-size: 34px;}
+    .calltoInfo p{font-size: 16px;}
+    .ctaButton{width: 30%;}
+    #callToaction{padding: 40px 0;}
+    #callToaction:before{width: 300px;background: url(../images/watermark4.png) no-repeat 0px 0px;    background-size: 100%;}
+    #callToaction:before{background-position: 310px -50px;background-size: 50%;}
+    /*.blog #innerBanner, .single #innerBanner, .search #innerBanner, .page.page-id-8 #innerBanner{min-height: 250px;}*/
+    /*.blogCaption, .single #innerBanner .innerCaption, .page.page-id-8 #innerBanner .innerCaption{min-height: 45vh;}*/
+    /*.blog #innerBanner h1, .single #innerBanner h1, .search #innerBanner h1, .page.page-id-8 #innerBanner h1{font-size: 36px;line-height: 1.3;}*/
+}
+@media (max-width:1024px) {
+    .header-inr { padding: 10px 20px; }
+    .site-logo img { width: 150px; }
+    .primary-menu > li { margin: 0.8rem 0 0 1rem; }
+    .primary-menu li.navbtn > a { font-size: 14px; letter-spacing: 0; padding: 10px; }
+    body.touch-enabled .primary-menu > li.menu-item-has-children > a { margin-right: 1.6rem; }
+    .primary-menu > li > .icon {/*right: -0.1rem;*/top: calc(50% - 0.6rem); right: -0.6rem; }
+    .primary-menu .icon::before { height: 0.6rem; width: 0.1rem; }
+    .primary-menu .icon::after { height: 0.15rem; width: 0.6rem; }
+    .bannerCaption h1, #innerBanner h1, .spinny-words span{ font-size: 40px; }
+    .page.page-id-312 #innerBanner .container, .page-template-templates #innerBanner .container { top: 80px; }
+    .spinny-words { min-height: 60px; }
+    .bannerCaption p { font-size: 15px; }
+    #featureVideo { padding: 40px 0; background: url(../images/watermark.png) no-repeat -200px 0px #F8F8F8; background-size: 50%; }
+    #info { padding: 40px 0; }
+    #info h2 { font-size: 35px; line-height: 50px; }
+    #info p { font-size: 18px; line-height: 26px; letter-spacing: 0; }
+    p.sub-text { font-size: 15px; line-height: 24px; font-weight: 400; }
+    #serviceWrap { text-align: center; background: url(../images/watermark2.png) no-repeat 400px -130px #f8f8f8; padding: 60px 20px; }
+    .serviceInfo { min-height: 672px; }
+    #howItWorks, #ourBlogs, #brands, #callToaction, #counter, .footerWrap, .boServices, .boAbout, .whoWeWorkWith, #ourServices { padding: 40px 0; }
+    #howItWorks h2, #ourBlogs h2, .brandDetails h2, .calltoInfo h2, #textInfo h2, .entry-content h2, #faq h2, .boServices h2, .whoWeWorkWith h2, .boWhyChooseUs h2 { font-size: 42px; line-height: 1.5; }
+    #brands { padding: 40px 30px }
+    .brandDetails h2 { margin-bottom: 30px; }    
+    ul.social-icons li { list-style: none; }
+    #footer p { padding-right: 20px; font-size: 15px; }
+    .contactDetails li address, .contactDetails li a { font-size: 15px; }
+    .copyright { padding: 20px 0; }
+
+    /*innerpage*/
+    #innerBanner { min-height: 400px; }
+    #innerBanner .container { top: 130px; }
+    .page-template-template-restaurants #innerBanner .container { top: 70px; }
+    .page-template-template-restaurants #innerBanner .container h1 { margin-bottom: 0; }
+    .innerCaption .btn { margin-top: 30px; }
+    #innerBanner h1 { line-height: 60px; }
+    /*.blog #innerBanner, .single #innerBanner, .search #innerBanner, .page.page-id-8 #innerBanner{min-height: 220px;}*/
+    /*.blog #innerBanner h1, .single #innerBanner h1, .search #innerBanner h1, .page.page-id-8 #innerBanner h1{font-size: 30px;}*/
+    /*.blogCaption, .single #innerBanner .innerCaption, .page.page-id-8 #innerBanner .innerCaption{min-height: 40vh;}*/
+    #innerBanner p { font-size: 18px; line-height: 1.5; }
+    #textInfo { padding: 100px 0 40px; }
+    #textInfo p { font-size: 18px; line-height: 28px; }
+    .getFreeQuote { padding: 20px; }
+    .planSelection { margin: 0; }
+    .planSelection .plan { width: /*calc(33% - 16px)*/33%;margin-bottom: 30px; }
+    .planSelection .plan-features li { min-height: 166px; }
+    .planSelection .plan.features { margin-top: 50px; }
+    #services h2 { margin-bottom: 40px; }
+    #services.eModelServices .servicesBlock p { font-size: 16px; line-height: 24px; }
+    section { padding: 2rem 0; }
+    .ufaq-faq-div { padding: 20px 25px; margin: 0 0 15px 0; }
+    div.ufaq-faq-title h4 { font-size: 18px; }
+    #faq h2 { margin-bottom: 20px; }
+    .rServiceBlock { padding: 0 10px; }
+    .servicesBlock h3{font-size: 16px;}
+
+    /*Business Owner Page*/
+    .boServices li { font-size: 18px; margin: 6px 6px 6px 0; width: calc(50% - 12px); }
+    .boServices .btn { margin: 40px 0 0; }
+    .workBlockText h3 { font-size: 24px; margin-bottom: 10px; }
+    .workBlockText p { font-size: 15px; line-height: 1.5; }
+    .workBlock { margin: 50px 0; }
+
+    /*restaurants page*/
+    .blogDetails h3, .rServices h3 { font-size: 18px; line-height: 1.5; margin-bottom: 20px; }
+    a.btnLink { font-size: 15px; padding: 8px 20px; }
+
+    /*DA Security Page*/
+    .daSecurity, .fdaSecurity, .listItem { padding: 50px 0; }
+    .dsListBlock li { font-size: 16px; }
+    #serviceWrap .serviceInfo{min-height: 305px;}
+
+    /*--------------------------------------------------------------------------*/
+    #services { padding: 40px 0 50px; }
+    .servicesBlock p { font-size: 15px; line-height: 21px; }
+    .servicesBlock img { padding-bottom: 6px; }
+    .servicesBlock { padding: 20px 7px; }
+    .dot { width: 100px; height: 100px; font-size: 44px; margin: 0px auto 15px;line-height:100px; }
+    .dot:after { left: -17px; top: -17px; width: 130px; height: 130px; content: ""; }
+    .workDetails p { padding: 10px 14px 0; }
+    .blogWrap { margin: 20px 0px; }
+    #counter h3 { font-size: 40px; margin: 0; }
+    .calltoInfo p br, .entry-content h2 br { display: none; }
+}
+
+/* Large devices (desktops, 991px and down) */
+@media (max-width:991px) {
+    .spinny-words{min-height: 45px;}
+    #banner{height: 400px;}
+    #banner .bannerCaption { max-width: unset; padding: 0 20px; }
+    .titleWrap{padding-bottom: 0;}
+    #info h2 { font-size: 28px; line-height: 1.5; }
+    #info p { font-size: 16px; line-height: 1.5;padding-left: 0; }
+    .servicesBlock h3 { font-size: 18px; margin: 15px 0; }
+    #serviceWrap { padding: 40px 0px }
+    .serviceInfo { padding: 15px 10px 30px; margin: 0; }
+    .serviceInfo h3 { font-size: 18px; padding: 15px 0; }
+    #howItWorks h2, #ourBlogs h2, .brandDetails h2, .calltoInfo h2, #textInfo h2, .entry-content h2, #faq h2 { font-size: 36px; line-height: 1.3; }
+    .blogWrap{min-height:492px;}
+    .blogInfo { padding: 10px 20px 0; font-size: 15px; margin-bottom: 20px; }
+    .workDetails .col-md-3:after { right: -15px; background-size: 30px; }
+    .workDetails p { font-size: 14px; padding: 10px 5px 0; }
+    .dot:after { left: -12px; top: -12px; width: 120px; height: 120px; content: ""; }
+    .blogDetails { padding: 20px; }
+    .blogDetails h3 { font-size: 18px; line-height: 1.5; margin-bottom: 10px; }
+    .blogDetails span { font-size: 14px; margin: 0; }
+    .blogDetails p { font-size: 14px; font-weight: 400; }
+    #counter p { font-size: 14px; font-weight: 400; line-height: 1.5; }
+    /*.calltoInfo p { font-size: 16px; }*/
+    #callToaction .ctaButton a { padding: 12px 30px; margin-top: 20px;font-size: 16px;}
+    .calltoInfo .ctaText h2{font-size: 30px;}
+    .calltoInfo p {font-size: 14px;line-height: 1.4;}
+
+    /*inner page*/
+    #innerBanner { /*min-height: 350px;*/ }
+    .innerCaption { max-width: unset; padding-right: 0; }
+    #innerBanner h1, .page-template-templates #innerBanner h1 { font-size: 36px; line-height: 1.2; margin-bottom: 20px; letter-spacing: 0.2px; }
+    .page.page-id-312 #innerBanner .container { /*top: 50px;*/ }
+    .page.page-id-312 #innerBanner h1 { font-size: 30px; }
+    #innerBanner p { font-size: 16px; letter-spacing: 0.3px; }
+    #innerBanner .container { top: 100px; }
+    .getFreeQuote { padding: 15px; }
+    .getFreeQuote h2 { font-size: 18px; font-weight: 600; margin-bottom: 10px; }
+    #innerBanner li { margin-bottom: 10px; }
+    input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="date"], input[type="month"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="week"], input[type="number"], input[type="search"], input[type="tel"], input[type="color"] { font-size: 15px; padding: 5px 10px; height: 30px; }
+    #services.eModelServices .servicesBlock p { font-size: 14px; line-height: 1.5; }
+
+    /*business owner page*/
+    a.btnLink { font-size: 14px; padding: 6px 20px; }
+    .boAbout p { margin-bottom: 20px; font-size: 15px; line-height: 1.5; }
+    .boServices li { font-size: 16px; margin: 4px 20px 4px 0; width: calc(50% - 20px); background-size: 8px; padding-left: 28px; }
+    .boServices h2 { margin-bottom: 15px; }
+    .workBlockText { padding: 0 30px 0px; }
+    .whyBlockWrap { padding: 0; }
+    .whyBlockWrap h3 { font-size: 18px; line-height: 1.5; }
+    .whyBlockWrap p { font-size: 15px; }
+
+    /*contact page*/
+    .wpcf7 .main-form { padding: 20px 30px; }
+
+    /*blog page*/
+    .post-box .inner-post { padding: 15px; }
+    .post-meta li { font-size: 0.9rem; }
+    .entry-title a { font-size: 1.4rem; margin-bottom: 1rem; }
+    .post-box p { font-size: 15px; }
+    .widget-area .widget .widget-title { font-size: 18px; margin-bottom: 15px; padding-bottom: 5px; }
+    .search-form .search-field { font-size: 14px; padding: 0 60px 0 15px; height: 35px; }
+    .search-form .search-submit { font-size: 12px; padding: 0 10px; }
+    .widget-area .widget .wpcf7 .main-form { padding: 10px 15px }
+    .widget-area .widget .wpcf7 .main-form h2 { font-size: 26px; }
+
+    /*Data Security Page*/
+    .daHeadings p{font-size: 16px;margin-bottom: 15px;}
+    .dsListBlock{margin: 20px 0 0;}
+    .dsListBlock li{width: 100%;float: none;}
+    .fdaSecurity .btn, .listItem .btn{margin: 30px 0 0;}
+    .listItem{padding-bottom: 0;}
+    .brandDetails .owl-carousel .owl-item img{display: block;margin: 0 auto;}
+}
+
+/* Large devices (desktops, 991px and down) */
+@media (max-width:767px) {
+    .search-popup-main{width: 100%;}
+    .menu-modal-inner{overflow: unset;}
+    .header-inr, .header.fixed .header-inr {padding: 10px 15px;}
+    .bannerCaption h1, .spinny-words span{font-size: 35px;}
+    #innerBanner h1, .page-template-templates #innerBanner h1{font-size: 26px;}
+    /*.blog #innerBanner h1, .single #innerBanner h1, .search #innerBanner h1, .page.page-id-8 #innerBanner h1{font-size: 26px;line-height: 1.2;}*/
+    .nav-toggle { right: 15px; }
+    .getFreeQuote { margin-top: 25px; }
+    #free-quote .getFreeQuote { margin: 0; }
+    .spinny-words { min-height: 45px; }
+    #howItWorks h2, #ourBlogs h2, .brandDetails h2, .calltoInfo h2, #textInfo h2, .entry-content h2, #faq h2, .whoWeWorkWith h2 { font-size: 30px; }
+    #textInfo h2 { line-height: 1.2; padding: 30px 0 20px; }
+    #textInfo p { font-size: 16px; line-height: 1.5; }
+    .planSelection .plan { width: /*calc(50% - 16px)*/50%; }
+    #site-content .planSelection li.plan-select { padding: 20px; }
+    #services .col-md-4:nth-child(3n+0), #services .col-md-4:nth-child(4), #services .col-md-4:nth-child(5), #services .col-md-4:nth-child(6), #services .col-md-4{ border-bottom: 1px solid #C1C1C1;border-right: none; }
+    #services .col-md-4:last-child{border-bottom: none;}
+    .blogWrap{min-height:unset;}
+    #callToaction{padding: 30px 0;}
+    #callToaction:before{background-position: 310px -20px;}
+    .ctaText{float: none;width: 100%;text-align: center;padding: 0;margin-bottom: 0px;}
+    .ctaButton{float: none;width: 100%;padding: 0;text-align: center;}
+    #callToaction .ctaButton a {padding: 10px 25px;margin-top: 10px;font-size: 14px;}
+    .blogInfo { padding: 0; }
+    .socialLinks { margin-bottom: 20px; }
+    #footer ul.social-menu { margin-top: 30px; }
+    .socialLinks  img { width: 150px; }
+    #footer h4 { margin: 10px 0; }
+    .contactDetails { margin-top: 20px; }
+    .contactDetails li { margin: 0 0 5px 0; padding: 5px 0; }
+    #footer .copyright p { margin-bottom: 10px; text-align: center; font-size: 13px; }
+    .fLinks li a{font-size: 14px;}
+
+    /*inner page*/
+    #myVideo { width: 100% !important; }
+    #playBtn, #pauseBtn { width: 82px; height: 82px; background-size: 80%; }
+    #info { text-align: center; }
+    #info h2 { margin-bottom: 15px; }
+    .serviceInfo { margin-bottom: 20px; min-height: unset; }
+    .workDetails .col-md-3 { margin-bottom: 25px; }
+    .dot { margin: 0px auto 60px; }
+    .workDetails .col-md-3:last-child .dot{margin: 0px auto 10px;}
+    .workDetails .col-md-3:after { top: 65%; transform: translate(-50%, -50%) rotate(90deg); left: 50%; }
+    .brandDetails .owl-carousel li.item { margin: 0; }
+
+    /*Business Owner*/
+    .boServices li { width: 100%; float: none; }
+    .whoWeWorkWith h2 { margin-bottom: 0; }
+    .workBlock:first-child { margin-top: 30px; }
+    .workBlock:last-child { margin-bottom: 30px; }
+    .workBlockImg { width: 100%; float: none; }
+    .workBlockText { width: 100%; float: none; text-align: center; padding: 20px 0; }
+    .boWhyChooseUs h2, .rServices h2, #ourServices h2 { font-size: 32px; line-height: 1.5; }
+    .whyBlockWrap { margin-bottom: 30px; }
+    #ourServices { /*padding: 0;*/ }
+
+    /*contact page*/
+    .entry-content .conatctInfo h2 { font-size: 28px; line-height: 1.2; }
+    .conatctInfo { margin-right: 0; }
+
+    /*Data Security*/
+    .page.page-id-312 #innerBanner h1{font-size: 26px;}
+    .daSecurity, .fdaSecurity, .listItem{padding: 30px 0;}
+    .listItem{padding-bottom: 0;}
+    .fdaSecurity h2, .listItem h2, .daHeadings h2{margin-bottom: 15px;}
+    .emsAbout h3{font-size: 20px;}
+    #serviceWrap .serviceInfo{min-height: unset;}
+    #serviceWrap .col-md-6:last-child .serviceInfo{margin-bottom: 0;}
+    .btn{margin: 30px 0 0;}
+    .workBlock {margin: 30px 0;}
+    .workBlock:last-child{margin-bottom: 0;}
+    #callToaction a {padding: 8px 20px;font-size: 14px;}
+
+    /*CMS*/
+    .cmsPage h1 { font-size: 30px; line-height: 35px; }
+    .cmsPage h2 { font-size: 20px; }
+    .cmsPage h3 { font-size: 18px; line-height: 1.3; }
+    .cmsPage h4 { font-size: 16px; line-height: 1.3; }
+    .cmsPage h5 { font-size: 15px; line-height: 1.3; }
+    .cmsPage h6 { font-size: 14px; line-height: 1.3; }
+    .blogPage .widget:last-child { margin-bottom: 0; }
+    .blogPage .page-header .page-title { font-weight: 500; }
+    .cmsPage p + h1, .cmsPage ol + h1 { margin-top: 20px; }
+    .cmsPage p + h2, .cmsPage ol + h2 { margin-top: 20px; }
+    .cmsPage p + h3, .cmsPage ol + h3 { margin-top: 20px; }
+    .cmsPage p + h4, .cmsPage ol + h4 { margin-top: 20px; }
+    .cmsPage p + h5, .cmsPage ol + h5 { margin-top: 20px; }
+    .cmsPage p + h6, .cmsPage ol + h6 { margin-top: 20px; }
+    .cmsPage h1 + h2 { margin-top: 10px; }
+    .cmsPage h2 + h3 { margin-top: 10px; }
+    .cmsPage h3 + h4 { margin-top: 10px; }
+    .cmsPage h4 + h5 { margin-top: 10px; }
+    .cmsPage h5 + h6 { margin-top: 10px; }
+    .cmsPage ul + h1 { margin-top: 20px; }
+    .cmsPage ul + h2 { margin-top: 20px; }
+    .cmsPage ul + h3 { margin-top: 20px; }
+    .cmsPage ul + h4 { margin-top: 20px; }
+    .cmsPage ul + h5 { margin-top: 20px; }
+    .cmsPage ul + h6 { margin-top: 20px; }
+    .cmsPage, .cmsPage p, .cmsPage ul li, .cmsPage ol li { font-size: 14px; line-height: 22px; }
+}
+
+/* Small devices (mobile, 575px and down) */
+@media (max-width:575px) {
+    #free-quote.bookaDemo{margin: 50px auto 0;}
+    #innerBanner h1 { font-size: 26px; }
+    .bannerCaption h1, .spinny-words span { font-size: 30px; }
+    /*.blog #innerBanner h1, .single #innerBanner h1, .search #innerBanner h1, .page.page-id-8 #innerBanner h1{font-size: 24px;}*/
+    .bannerCaption p{margin-bottom: 15px;}
+    .spinny-words {min-height: 30px;}
+    #banner .bannerCaption a {font-size: 14px;padding: 6px 30px;}
+    #innerBanner p { display: none; }
+    .getFreeQuote ul { margin: 0; }
+    #innerBanner li { margin: 0 0 10px 0; }
+    .getFreeQuote { margin: 25px; }
+    input, #textInfo p { font-size: 14px !important;/*height: auto!important;*/ }
+    textarea { font-size: 14px; }
+    .getFreeQuote button { padding: 8px; font-size: 14px; border-radius: 5px; }
+    #howItWorks h2, #ourBlogs h2, .brandDetails h2, .calltoInfo h2, #textInfo h2, .entry-content h2, #faq h2, .rServices h2, #services.eModelServices h2 { font-size: 26px; }
+    .planSelection .plan { width: calc(100% - 0px); margin: 0 0 25px 0; }
+    .planSelection .plan-features li{min-height: unset;}
+    #site-content ul li { margin: 0;/*padding: 20px;*/ min-height: unset; }
+    div.ufaq-faq-title h4 { font-size: 16px; font-weight: 500; }
+    .ufaq-faq-body { padding: 20px 0px 0 0; }
+    div.ufaq-faq-post p, .calltoInfo p { font-size: 14px; line-height: 1.5; }
+    #info h2 { font-size: 25px; line-height: 1.2;}
+    #info p { padding-left: 0; font-size: 14px;}
+    /*.workDetails .col-md-3:after { left: 44%; }*/
+    .boWhyChooseUs { padding: 40px 0; }
+    #callToaction:before { display: none; }
+    .calltoInfo .ctaText h2{font-size: 26px;}
+    #callToaction .ctaButton a {padding: 5px 20px;font-size: 14px;border-radius: 5px;}
+    .conatctInfo p { font-size: 14px; }
+    #site-content .conatctInfo li { padding: 10px 10px 10px 50px; line-height: 1.5; padding-bottom: 10px; background-size: 22px; background-repeat: no-repeat; background-position: 15px 15px; }
+    .wpcf7 .main-form { padding: 20px 15px; }
+    .wpcf7 .main-form h2 { font-size: 24px; line-height: 1.2; }
+    .wpcf7 .main-form input[type="submit"] { padding: 6px 10px; }
+    .brandDetails .owl-carousel .owl-item img{box-shadow: unset;padding: 0;}
+
+    /*contact page*/
+    .post-meta { margin: 0 0 15px; }
+    #site-content .post-meta .meta-wrapper { margin: 0 10px; padding: 0; }
+
+    /*blog page*/
+    .post-box { margin-bottom: 30px; }
+    .blog-post .inner-post h1.entry-title { font-size: 1.3rem; }
+    .single-post .entry-content { /*padding: 0;*/ padding: 30px 0;}
+    .post-inner .entry-content{padding: 0;}
+    .blog-post .inner-post .entry-content > * { font-size: 15px; }
+    .blog-post .inner-post .entry-content h4 { font-size: 20px; line-height: 1.2; }
+
+    /*404 page*/
+    .error404-content { max-width: unset; }
+    .error404-heading { font-size: 5rem; }
+    .error404-content .intro-text { font-size: 0.9rem; }
+
+    /*Data Security*/
+    .page.page-id-312 #innerBanner .container{top: 100px;}
+    .page.page-id-312 #innerBanner h1{font-size: 22px;margin-bottom: 10px;}
+    #innerBanner a.btnLink{padding: 8px 20px;font-size: 14px;font-weight: 500;}
+    .innerCaption .btn{margin-top: 20px;}
+    #innerBanner{min-height: 300px;}
+    .daHeadings{margin-bottom: 30px;}
+    .fdaSecurity h2, .listItem h2, .daHeadings h2{font-size: 24px;}
+    .daHeadings p, .fdaSecurity p{font-size: 14px;}
+    .dsListBlock li{padding-left: 20px;}
+    .dsListBlock{margin: 0;}
+    #logoSlider{margin: 0;}
+    .emsAbout h3{font-size: 18px;}
+    .boAbout p{font-size: 14px;}
+}
+
+/* extraSmall devices ( 400px and down) */
+@media (max-width:400px) { }
+@media only screen and (max-width: 999px)
+.testimonials-slider.owl-carousel .owl-nav button.owl-prev {
+    left: 15px;
+}
+@media only screen and (max-width: 999px)
+.testimonials-slider.owl-carousel .owl-nav button.owl-prev, .testimonials-slider.owl-carousel .owl-nav button.owl-next {
+    width: 60px;
+    height: 60px;
+}
